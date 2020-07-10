@@ -6,8 +6,8 @@
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
                         <!-- Logo -->
-                        <h6 class="widget-title">About us</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                        <h5 class="widget-title" style="font-family:tahoma;">About us</h5>
+                        <p style="font-family:tahoma;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
                         <!-- Footer Newsletter Area -->
                         <div class="footer-nl-area">
                             <form action="#" method="post">
@@ -21,7 +21,7 @@
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
-                        <h6 class="widget-title">Latest Twister</h6>
+                        <h6 class="widget-title" style="font-family:tahoma;">Latest Twister</h6>
                         <!-- Twitter Slides -->
                         <div class="twitter-slides owl-carousel">
 
@@ -29,11 +29,11 @@
                             <div class="single--twitter-slide">
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                             </div>
 
@@ -41,11 +41,11 @@
                             <div class="single--twitter-slide">
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                             </div>
 
@@ -56,7 +56,7 @@
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
-                        <h6 class="widget-title">Sport Videos</h6>
+                        <h6 class="widget-title" style="font-family:tahoma;">Sport Videos</h6>
 
                         <!-- Single Blog Post -->
                         <div class="single-blog-post d-flex">
@@ -64,7 +64,7 @@
                                 <img src="img/bg-img/1.jpg" alt="">
                             </div>
                             <div class="post-content">
-                                <a href="single-post.html" class="post-title">DC Shoes: gymkhana the</a>
+                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">DC Shoes: gymkhana the</a>
                                 <div class="post-meta d-flex justify-content-between">
                                     <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 14</a>
                                     <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 34</a>
@@ -79,7 +79,7 @@
                                 <img src="img/bg-img/2.jpg" alt="">
                             </div>
                             <div class="post-content">
-                                <a href="single-post.html" class="post-title">Sweet Yummy Chocolatea Tea</a>
+                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">Sweet Yummy Chocolatea Tea</a>
                                 <div class="post-meta d-flex justify-content-between">
                                     <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 14</a>
                                     <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 34</a>
@@ -94,12 +94,12 @@
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
-                        <h6 class="widget-title">Our Address</h6>
+                        <h6 class="widget-title" style="font-family:tahoma;">Our Address</h6>
                         <!-- Contact Address -->
                         <div class="contact-address">
-                            <p>Democratic Republic of the Congo <br></p>
-                            <p>Phone: +243977743843</p>
-                            <p>Email:kawedeteacherprogram@gmail.com</p>
+                            <p style="font-family:tahoma;">Democratic Republic of the Congo <br></p>
+                            <p style="font-family:tahoma;">Phone: +243977743843</p>
+                            <p style="font-family:tahoma;">Email:kawedeteacherprogram@gmail.com</p>
                         </div>
                         <!-- Footer Social Area -->
                         <div class="footer-social-area">
@@ -120,8 +120,8 @@
                 <div class="row align-items-center">
                     <!-- Copywrite Text -->
                     <div class="col-12 col-sm-6">
-                        <p class="copywrite-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |  <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">C</a>
+                        <p class="copywrite-text" style="font-family:tahoma;"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a href="https://colorlib.com" target="_blank"></a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                     </div>
                     <div class="col-12 col-sm-6">

@@ -14,7 +14,7 @@
   padding: 0; }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "tahoma", sans-serif;
   font-size: 14px;
   background-color: #222627;
   color: #a6a6a6; }
@@ -257,14 +257,14 @@ input:focus {
   .section-heading .line {
     width: 150px;
     height: 1px;
-    background-color: #4e5152;
+    background-color: yellow;
     margin: 0 auto;
     position: relative;
     z-index: 1; }
     .section-heading .line::after {
       width: 60px;
       height: 2px;
-      background-color: #db4437;
+      background-color: yellow;
       content: '';
       position: absolute;
       bottom: 0;

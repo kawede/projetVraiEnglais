@@ -6,10 +6,8 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <!-- Title -->
-    <title>Kawede Teacher</title>
+    <title>Kawede Teacher program</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img\kawedelogo.JPG">
@@ -40,13 +38,13 @@
                         <!-- Breaking News Widget -->
                         <div class="breaking-news-area d-flex align-items-center">
                             <div class="news-title">
-                                <p style="color:rgb(208,208,0);">Breaking News:</p>
+                                <p style="color:rgb(251,188,5); font-family: tahoma;">Breaking News:</p>
                             </div>
                             <div id="breakingNewsTicker" class="ticker">
                                 <ul>
-                                    <li><a href="single-post.html">10 Things Amazon Echo Can Do</a></li>
-                                    <li><a href="single-post.html">Welcome to Kawede teacher program.</a></li>
-                                    <li><a href="single-post.html">Boys 'doing well' after Thai</a></li>
+                                    <li><a href="single-post.php"style="color:white; font-family: tahoma;">Un Bon endroit pour devenir bilingue</a></li>
+                                    <li><a href="single-post.php" style="color:white; font-family: tahoma;"> Welcome to Kawede teacher program.</a></li>
+                                    <li><a href="single-post.php" style="color:white; font-family: tahoma;">Une academie des langues dans la region de grand lac</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -55,11 +53,10 @@
                         <div class="top-meta-data d-flex align-items-center justify-content-end">
                             <!-- Top Social Info -->
                             <div class="top-social-info" >
-                                <a href="https://web.facebook.com/Kawede-Teacher-Program-108761387217295/" ><i class="fa fa-facebook"style="color:rgb(208,208,0);"></i></a>
-                                <a href="#"><i class="fa fa-twitter" style="color:rgb(208,208,0);"></i></a>
-                                <a href="#"><i class="fa fa-pinterest"style="color:rgb(208,208,0);"></i></a>
-                                <a href="#"><i class="fa fa-linkedin" style="color:rgb(208,208,0);"></i></a>
-                                <a href="#"><i class="fa fa-youtube-play" style="color:rgb(208,208,0);"></i></a>
+                                <a href="https://web.facebook.com/Kawede-Teacher-Program-108761387217295/" ><i class="fa fa-facebook"style="color:rgb(57,87,154);"></i></a>
+                                <a href="#"><i class="fa fa-twitter" style="color:rgb(83,172,238);"></i></a>
+                                <a href="#"><i class="fa fa-linkedin" style="color:rgb(0,119,181);"></i></a>
+                                <a href="#"><i class="fa fa-youtube-play" style="color:rgb(221,75,57);"></i></a>
                             </div>
                             <!-- Top Search Area -->
                             <div class="top-search-area">
@@ -102,22 +99,36 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li class="active"><a href="index.php" style="color:black;">Home</a></li>
-                                    <li><a href="archive-grid.php" style="color:black;">Archives</a></li>
-                                    <li><a href="#" style="color:black;">Pages</a>
+                                    <li class="active"><a href="index.php" style="color:black; font-family: tahoma;">Home</a></li>
+                                    <li><a href="archive-grid.php" style="color:black; font-family: tahoma;">Archives</a></li>
+                                    <li><a href="#" style="color:black; font-family: tahoma;">Activités</a>
                                         <ul class="dropdown" style="color:black;" >
-                                            <li><a href="index.php" style="color:black;">- Home</a></li>
-                                            <li><a href="archive-list.html" style="color:black;">- Archive List</a></li>
-                                            <li><a href="archive-grid.php">- Archive Grid</a></li>
-                                            <li><a href="single-post.html" style="color:black;">- Single Post</a></li>
-                                            <li><a href="video-post.html" style="color:black;">- Single Video Post</a></li>
-                                            <li><a href="contact.html" style="color:black;">- Contact</a></li>
-                                            <li><a href="typography.html">- Typography</a></li>
-                                            <li><a href="login.html">- Login</a></li>
+                                            <li><a href="index.php"style="color:black; font-family: tahoma;"><i class="fa fa-home" aria-hidden="true"></i>    Home</a></li>
+                                            <hr>
+                                            <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-universal-access" aria-hidden="true"></i>  Campagnes</a></li>
+                                            <hr>
+                                            <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-users" aria-hidden="true"></i>  Partenaire</a></li>
+                                            <hr>
+                                           
+                                            <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-bullhorn" aria-hidden="true"></i>  Publicité</a></li>
+                                            <hr>
+                                              <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-sign-in" aria-hidden="true"></i>  Login</a></li>
                                         </ul>
                                     </li>
-                                     <li><a href="lessons.php" style="color:black;">LESSONS</a></li>
-                                    <li><a href="contact.php" style="color:black;">Contact</a></li>
+                                    <li><a href="#" style="color:black; font-family: tahoma;">LEÇONS</a>
+                                        <ul class="dropdown" style="color:black;" >
+                                            <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-star" aria-hidden="true"></i>   Anglais Basic</a></li>
+                                            <hr>
+                                            <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-align-center" aria-hidden="true"></i>         intermediaire</a></li>
+                                            <hr>
+                                            <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-fast-forward" aria-hidden="true"></i>      Avancé</a></li>
+                                            <hr>
+                                           
+                                            <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-level-up" aria-hidden="true"></i>          Experts </a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="lessons.php" style="color:black;font-family: tahoma;">Contact</a>
+                                    </li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
