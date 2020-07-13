@@ -8,9 +8,9 @@
             <div class="row">
                 <div class="col-12">
                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Login</li>
+                        <ol class="breadcrumb" style="font-family:tahoma;">
+                            <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page" style="font-family:tahoma;">Login</li>
                         </ol>
                     </nav>
                 </div>
@@ -27,11 +27,11 @@
                     <div class="login-content">
                         <!-- Section Title -->
                         <div class="section-heading">
-                            <h4>Great to have you back!</h4>
+                            <h4>Se Connecter</h4>
                             <div class="line"></div>
                         </div>
 
-                        <form action="index.html" method="post">
+                        <form action="index.php" method="post">
                             <div class="form-group">
                                 <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email or User Name">
                             </div>
@@ -52,30 +52,7 @@
         </div>
     </div>
     <!-- ##### Login Area End ##### -->
-
-    <!-- ##### Footer Area Start ##### -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="row">
-                <!-- Footer Widget Area -->
-                <div class="col-12 col-sm-6 col-xl-3">
-                    <div class="footer-widget mb-70">
-                        <!-- Logo -->
-                        <a href="index.html" class="foo-logo d-block mb-4"><img src="img/core-img/logo2.png" alt=""></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
-                        <!-- Footer Newsletter Area -->
-                        <div class="footer-nl-area">
-                            <form action="#" method="post">
-                                <input type="email" name="nl-email" class="form-control" id="nlEmail" placeholder="Your email">
-                                <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Footer Widget Area -->
-               
-                 <?php include('./_box_pages/footer.php') ?>
+      <?php include('./_box_pages/footer.php') ?>
 </body>
 
 </html>

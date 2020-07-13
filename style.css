@@ -257,14 +257,14 @@ input:focus {
   .section-heading .line {
     width: 150px;
     height: 1px;
-    background-color: yellow;
+    background-color: red;
     margin: 0 auto;
     position: relative;
     z-index: 1; }
     .section-heading .line::after {
       width: 60px;
       height: 2px;
-      background-color: yellow;
+      background-color: red;
       content: '';
       position: absolute;
       bottom: 0;
@@ -279,10 +279,10 @@ input:focus {
         margin-left: 0; }
 
 #scrollUp {
-  background-color: #0f1112;
+  background-color:red;
   border-radius: 0;
   bottom: 50px;
-  color: #ffffff;
+  color: red;
   font-size: 14px;
   height: 40px;
   line-height: 42px;
@@ -306,7 +306,7 @@ input:focus {
       height: 30px; } }
 
 .vizew-btn {
-  background-color: #db4437;
+  background-color: blue;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
@@ -326,7 +326,7 @@ input:focus {
     font-size: 16px;
     font-weight: 500;
     background-color: #0f1112;
-    color: #ffffff;
+    color: blue;
     box-shadow: none; }
 
 .top-header-area {

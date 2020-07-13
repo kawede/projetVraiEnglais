@@ -7,12 +7,12 @@
                     <div class="footer-widget mb-70">
                         <!-- Logo -->
                         <h5 class="widget-title" style="font-family:tahoma;">About us</h5>
-                        <p style="font-family:tahoma;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna</p>
+                        <p style="font-family:tahoma;">Nous sommes une plateforme en ligne qui est spécialisée dans la promotion de la culture des langues dans la région de grand lac et améliorer nos niveaux dans ce secteur pour  accéder a certaine opportunités du quotidien.</p>
                         <!-- Footer Newsletter Area -->
                         <div class="footer-nl-area">
                             <form action="#" method="post">
                                 <input type="email" name="nl-email" class="form-control" id="nlEmail" placeholder="Your email">
-                                <button type="submit" style="color:rgb(208,208,0)"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+                                <button type="submit" style="color:rgb(83,172,238);"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
                             </form>
                         </div>
                     </div>
@@ -21,7 +21,7 @@
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
-                        <h6 class="widget-title" style="font-family:tahoma;">Latest Twister</h6>
+                        <h6 class="widget-title" style="font-family:tahoma;">latest news</h6>
                         <!-- Twitter Slides -->
                         <div class="twitter-slides owl-carousel">
 
@@ -29,11 +29,11 @@
                             <div class="single--twitter-slide">
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(83,172,238);"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(83,172,238);"></i> <span style="font-family:tahoma;">@Leonard</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
                                 </div>
                             </div>
 
@@ -41,11 +41,11 @@
                             <div class="single--twitter-slide">
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(83,172,238);"></i> <span>@Colorlib</span> latest news</p>
                                 </div>
                                 <!-- Single Twit -->
                                 <div class="single-twit">
-                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(208,208,0"></i> <span>@Colorlib</span> I am so happy because I found this magazine, and it just made Vizeweasier. Thanks for sharing</p>
+                                    <p style="font-family:tahoma;"><i class="fa fa-twitter" style="color:rgb(83,172,238);"></i> <span>@Colorlib</span> latest news</p>
                                 </div>
                             </div>
 
@@ -56,7 +56,7 @@
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-xl-3">
                     <div class="footer-widget mb-70">
-                        <h6 class="widget-title" style="font-family:tahoma;">Sport Videos</h6>
+                        <h6 class="widget-title" style="font-family:tahoma;">interesting lessons</h6>
 
                         <!-- Single Blog Post -->
                         <div class="single-blog-post d-flex">
@@ -64,7 +64,7 @@
                                 <img src="img/bg-img/1.jpg" alt="">
                             </div>
                             <div class="post-content">
-                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">DC Shoes: gymkhana the</a>
+                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">lecons interessantes</a>
                                 <div class="post-meta d-flex justify-content-between">
                                     <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 14</a>
                                     <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 34</a>
@@ -79,7 +79,7 @@
                                 <img src="img/bg-img/2.jpg" alt="">
                             </div>
                             <div class="post-content">
-                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">Sweet Yummy Chocolatea Tea</a>
+                                <a href="single-post.html" class="post-title" style="font-family:tahoma;">lecons interessantes</a>
                                 <div class="post-meta d-flex justify-content-between">
                                     <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 14</a>
                                     <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 34</a>
@@ -127,11 +127,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script>  <a h
                     <div class="col-12 col-sm-6">
                         <nav class="footer-nav">
                             <ul>
-                                <li><a href="#">Advertise</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">Disclaimer</a></li>
-                                <li><a href="#">Privacy</a></li>
+                                <li><a href="_Apropos.php" style="font-family:tahoma;color:white;">    A propos de nous</a></li>
+                                <li><a href="_contact.php" style="font-family:tahoma;color:white;">Nous Contact</a></li>
+                                <li><a href="#" style="font-family:tahoma;color:white;">Nous Programme</a></li>
+                                <li><a href="#" style="font-family:tahoma;color:white;">Nous Team</a></li>
                             </ul>
                         </nav>
                     </div>
