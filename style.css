@@ -257,14 +257,14 @@ input:focus {
   .section-heading .line {
     width: 150px;
     height: 1px;
-    background-color: red;
+    background-color: white;
     margin: 0 auto;
     position: relative;
     z-index: 1; }
     .section-heading .line::after {
       width: 60px;
       height: 2px;
-      background-color: red;
+      background-color: white;
       content: '';
       position: absolute;
       bottom: 0;

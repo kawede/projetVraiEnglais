@@ -7,9 +7,9 @@
                 <div class="col-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-                            <li class="breadcrumb-item"><a href="#">Feature</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Archive by Category SPORTS</li>
+                            <li class="breadcrumb-item" style="font-family: tahoma;"><a href="archive-grid.php"><i class="fa fa-home" aria-hidden="true" style="color:blue;"></i> Archive</a></li>
+                            <li class="breadcrumb-item"><a href="#">Fonctionnalité</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Nos archives</li>
                         </ol>
                     </nav>
                 </div>

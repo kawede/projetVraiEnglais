@@ -9,4 +9,3 @@
    <?php include('./_box_pages/footer.php') ?>
 </body>
 
-</html>
