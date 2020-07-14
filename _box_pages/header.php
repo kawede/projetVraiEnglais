@@ -13,6 +13,9 @@
 </head>
 
 <body>
+<!--  loading _config file   -->
+    <?php  include('../_config/_config.php'); //required file for connexion to the server?>
+<!--  end    -->
     <!-- Preloader -->
     <div class="preloader d-flex align-items-center justify-content-center">
         <div class="lds-ellipsis">
