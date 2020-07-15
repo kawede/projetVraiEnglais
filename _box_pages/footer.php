@@ -7,7 +7,7 @@
                     <div class="footer-widget mb-70">
                         <!-- Logo -->
                         <h5 class="widget-title" style="font-family:tahoma;">About us</h5>
-                        <p style="font-family:tahoma;">Nous sommes une plateforme en ligne qui est spécialisée dans la promotion de la culture des langues dans la région de grand lac et améliorer nos niveaux dans ce secteur pour  accéder a certaine opportunités du quotidien.</p>
+                        <p style="font-family:tahoma;">Nous sommes une plateforme en ligne qui est spécialisée dans la promotion de la culture des langues. la solution que KTP vous propose maintenant va repondre a toutes vos attentes</p>
                         <!-- Footer Newsletter Area -->
                         <div class="footer-nl-area">
                             <form action="#" method="post">

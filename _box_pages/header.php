@@ -40,7 +40,7 @@
                             </div>
                             <div id="breakingNewsTicker" class="ticker">
                                 <ul>
-                                    <li><a href="single-post.php"style="color:white; font-family: tahoma;">Un Bon endroit pour devenir bilingue</a></li>
+                                    <li><a href="single-post.php"style="color:white; font-family: tahoma;">La slution va repondre a toutes vos attentes</a></li>
                                     <li><a href="single-post.php" style="color:white; font-family: tahoma;"> Welcome to Kawede teacher program.</a></li>
                                     <li><a href="single-post.php" style="color:white; font-family: tahoma;">Une academie des langues dans la region de grand lac</a></li>
                                 </ul>
@@ -100,31 +100,55 @@
                                 <ul>
                                     <li class="active"><a href="index.php" style="color:black; font-family: tahoma;">Home</a></li>
                                     <li><a href="archive-grid.php" style="color:black; font-family: tahoma;">Archives</a></li>
-                                    <li><a href="#" style="color:black; font-family: tahoma;">Activités</a>
-                                        <ul class="dropdown" style="color:black;" >
-                                            <li><a href="index.php"style="color:black; font-family: tahoma;"><i class="fa fa-home" aria-hidden="true"style="color:red;"></i>    Annonces</a></li>
-                                            <hr>
-                                            <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-universal-access" aria-hidden="true"style="color:red;"></i>  Campagnes</a></li>
-                                            <hr>
-                                            <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-users" aria-hidden="true" style="color:red;"></i>  Partenaire</a></li>
-                                            <hr>
-                                           
-                                            <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-bullhorn" aria-hidden="true"style="color:red;"></i>  Publicité</a></li>
-                                            <hr>
-                                              <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-sign-in" aria-hidden="true"style="color:red;"></i>  Login</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#" style="color:black; font-family: tahoma;">LEÇONS</a>
-                                        <ul class="dropdown" style="color:black;" >
-                                            <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-star" aria-hidden="true"style="color:red;"></i>   Anglais Basic</a></li>
-                                            <hr>
-                                            <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-align-center" aria-hidden="true" style="color:red;"></i>         intermediaire</a></li>
-                                            <hr>
-                                            <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-fast-forward" aria-hidden="true" style="color:red;"></i>      Avancé</a></li>
-                                            <hr>
-                                           
-                                            <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-level-up" aria-hidden="true"style="color:red;"></i>          Experts </a></li>
-                                        </ul>
+                                    <li><a href="#"style="color:black; font-family: tahoma;">Features</a>
+                                        <div class="megamenu">
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.php"> Activite</a></li>
+                                                <hr>
+                                                <li><a href="index.php"style="color:black; font-family: tahoma;"><i class="fa fa-home" aria-hidden="true"style="color:red;"></i>    Annonces</a></li>
+                                                <hr>
+                                               <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-universal-access" aria-hidden="true"style="color:red;"></i>  Campagnes</a></li>
+                                               <hr>
+                                               <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-users" aria-hidden="true" style="color:red;"></i>  Partenaire</a></li>
+                                              <hr>
+                                               <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-bullhorn" aria-hidden="true"style="color:red;"></i>  Publicité</a></li>
+                                            
+                                               
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">lecons</a></li>
+                                                <hr>
+                                                <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-star" aria-hidden="true"style="color:red;"></i>   Anglais Basic</a></li>
+                                                <hr>
+                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-align-center" aria-hidden="true" style="color:red;"></i>         intermediaire</a></li>
+                                                <hr>
+                                                <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-fast-forward" aria-hidden="true" style="color:red;"></i>      Avancé</a></li>
+                                                <hr>
+                                                <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-level-up" aria-hidden="true"style="color:red;"></i>          Experts </a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">About us  </a></li>
+                                                <hr>
+                                                <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-users" aria-hidden="true"style="color:red;"></i>   Pourqoui nous?</a></li>
+                                                <hr>
+                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-train" aria-hidden="true" style="color:red;"></i>         Nos formations</a></li>
+                                                <hr>
+                                                <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-database" aria-hidden="true" style="color:red;"></i>   Inscription Etudiant</a></li>
+                                                <hr>
+                                                <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-graduation-cap" aria-hidden="true"style="color:red;"></i>         Devenir formateur </a></li>
+                                            </ul>
+                                            <ul class="single-mega cn-col-4">
+                                                <li><a href="index.html">Autres</a></li>
+                                                <hr>
+                                                <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-sign-in" aria-hidden="true"style="color:red;"></i>   login</a></li>
+                                                <hr>
+                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-user" aria-hidden="true" style="color:red;"></i>         Mon compte</a></li>
+                                                <hr>
+                                                <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-shopping-basket" aria-hidden="true" style="color:red;"></i>      Mon panier</a></li>
+                                                <hr>
+                                                <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-cc-paypal" aria-hidden="true" style="color:red;"></i>          Mode paiement </a></li>
+                                            </ul>
+                                        </div>
                                     </li>
                                     <li><a href="annonce.php" style="color:black;font-family: tahoma;">Annonces</a>
                                     </li>

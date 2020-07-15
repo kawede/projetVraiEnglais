@@ -9,7 +9,7 @@
     include_once('_user.model.php');
     // end models
     try {
-        $conf = new PDO('mysql:host=localhost;dbname=_english_cours','_rootingConf','@brdZero');
+        $conf = new PDO('mysql:host=localhost;dbname=_english_cours','root','');
         $conf->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (\Throwable $th) {
 
