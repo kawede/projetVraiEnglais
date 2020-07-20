@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Kawede Teacher program</title>
+    <title>English program</title>
     <link rel="icon" href="img\kawedelogo.JPG">
     <link rel="stylesheet" href="style.css">
 
@@ -40,7 +40,7 @@
                             </div>
                             <div id="breakingNewsTicker" class="ticker">
                                 <ul>
-                                    <li><a href="single-post.php"style="color:white; font-family: tahoma;">La slution va repondre a toutes vos attentes</a></li>
+                                    <li><a href="single-post.php"style="color:white; font-family: tahoma;">La solution va repondre a toutes vos attentes</a></li>
                                     <li><a href="single-post.php" style="color:white; font-family: tahoma;"> Welcome to Kawede teacher program.</a></li>
                                     <li><a href="single-post.php" style="color:white; font-family: tahoma;">Une academie des langues dans la region de grand lac</a></li>
                                 </ul>
@@ -109,29 +109,29 @@
                                                 <hr>
                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-universal-access" aria-hidden="true"style="color:red;"></i>  Campagnes</a></li>
                                                <hr>
-                                               <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-users" aria-hidden="true" style="color:red;"></i>  Partenaire</a></li>
+                                               <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-users" aria-hidden="true" style="color:red;"></i>  Debat</a></li>
                                               <hr>
                                                <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-bullhorn" aria-hidden="true"style="color:red;"></i>  Publicité</a></li>
                                             
                                                
                                             </ul>
                                             <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">lecons</a></li>
+                                                <li><a href="index.php" style="font-weight: bold; font-family:tahoma; ">lecons</a></li>
                                                 <hr>
                                                 <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-star" aria-hidden="true"style="color:red;"></i>   Anglais Basic</a></li>
                                                 <hr>
-                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-align-center" aria-hidden="true" style="color:red;"></i>         intermediaire</a></li>
+                                                <li><a href="archive-list.php" style="color:black;font-family: tahoma;"><i class="fa fa-align-center" aria-hidden="true" style="color:red;"></i>         intermediaire</a></li>
                                                 <hr>
                                                 <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-fast-forward" aria-hidden="true" style="color:red;"></i>      Avancé</a></li>
                                                 <hr>
                                                 <li><a href="login.php" style="color:black;font-family: tahoma;"><i class="fa fa-level-up" aria-hidden="true"style="color:red;"></i>          Experts </a></li>
                                             </ul>
                                             <ul class="single-mega cn-col-4">
-                                                <li><a href="index.html">About us  </a></li>
+                                                <li><a href="index.html">Présentaion  </a></li>
                                                 <hr>
                                                 <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-users" aria-hidden="true"style="color:red;"></i>   Pourqoui nous?</a></li>
                                                 <hr>
-                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-train" aria-hidden="true" style="color:red;"></i>         Nos formations</a></li>
+                                                <li><a href="archive-list.php" style="color:black;font-family: tahoma;"><i class="fa fa-train" aria-hidden="true" style="color:red;"></i>         Nos formations</a></li>
                                                 <hr>
                                                 <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"></i><i class="fa fa-database" aria-hidden="true" style="color:red;"></i>   Inscription Etudiant</a></li>
                                                 <hr>
@@ -142,7 +142,7 @@
                                                 <hr>
                                                 <li><a href="index.php"style="color:black; font-family: tahoma;"></i><i class="fa fa-sign-in" aria-hidden="true"style="color:red;"></i>   login</a></li>
                                                 <hr>
-                                                <li><a href="archive-list.html" style="color:black;font-family: tahoma;"><i class="fa fa-user" aria-hidden="true" style="color:red;"></i>         Mon compte</a></li>
+                                                <li><a href="archive-list.php" style="color:black;font-family: tahoma;"><i class="fa fa-user" aria-hidden="true" style="color:red;"></i>         Mon compte</a></li>
                                                 <hr>
                                                 <li><a href="archive-grid.php" style="color:black;font-family: tahoma;"><i class="fa fa-shopping-basket" aria-hidden="true" style="color:red;"></i>      Mon panier</a></li>
                                                 <hr>
@@ -150,9 +150,9 @@
                                             </ul>
                                         </div>
                                     </li>
-                                    <li><a href="annonce.php" style="color:black;font-family: tahoma;">Annonces</a>
+                                    <li><a href="./_main_pages/annonce.php" style="color:black;font-family: tahoma;">Annonces</a>
                                     </li>
-                                      <li><a href="lessons.php" style="color:black;font-family: tahoma;">Contact</a>
+                                      <li><a href="_contact.php" style="color:black;font-family: tahoma;">Contact</a>
                                     </li>
                                 </ul>
                             </div>
